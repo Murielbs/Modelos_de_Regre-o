@@ -19,3 +19,11 @@ R² = 0.5032
 MAE = R$ 168.718,04
 
 RMSE = R$ 389.367,12
+
+Grupo:
+Ana Carolina
+Edmael Paulo
+Gabriel Gleydson
+Muriel Bezerra
+Pedro Juan
+Vinicius Santos
